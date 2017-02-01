@@ -1,0 +1,19 @@
+.yello
+{
+  background-image: url("kuo17V.jpg");
+  background-size: cover;
+  background-repeat: repeat;
+  background-attachment: fixed;
+  text-align: center;
+  color: white;
+  margin-top: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px
+}
+h1{
+  font-size:70px;
+  font-family: monospace;
+}
+.blue
+{text-align: center;
+}
